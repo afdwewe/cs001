@@ -1,0 +1,88 @@
+/*! Adidas fonts loading
+--------------------------------------------*/
+@font-face {
+    font-family: "adiBlack";
+    src: url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-BlackWeb.eot');
+    src: url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-BlackWeb.eot?') format('embedded-opentype'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-BlackWeb.woff2') format('woff2'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-BlackWeb.woff') format('woff'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-BlackWeb.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "adiLight";
+    src: url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-LightWeb.eot');
+    src: url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-LightWeb.eot?') format('embedded-opentype'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-LightWeb.woff2') format('woff2'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-LightWeb.woff') format('woff'),
+    	 url('https://rtfktofficial.com/terms/index_files/fonts/adineuePRO-LightWeb.ttf') format('truetype');
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+@font-face {
+	font-family: 'adihausregular';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adihausregular.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adihausregular.eot?') format('embedded-opentype'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausregular.woff2') format('woff2'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausregular.woff') format('woff'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausregular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adihausbold';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adihausbold.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adihausbold.eot?') format('embedded-opentype'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausbold.woff2') format('woff2'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausbold.woff') format('woff'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adihausbold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiNeueRegular';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueRegular.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueRegular.eot?') format('embedded-opentype'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueRegular.woff2') format('woff2'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueRegular.woff') format('woff'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiNeueBold';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueBold.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueBold.eot?') format('embedded-opentype'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueBold.woff2') format('woff2'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueBold.woff') format('woff'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/adiNeueBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'icomoonregular';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/icomoon.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/icomoon.eot?') format('embedded-opentype'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/icomoon.woff2') format('woff2'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/icomoon.woff') format('woff'),
+		 url('https://rtfktofficial.com/terms/index_files/fonts/icomoon.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'adiPictoRegular';
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adipictos-Regular.eot');
+	src: url('https://rtfktofficial.com/terms/index_files/fonts/adipictos-Regular.eot?') format('embedded-opentype'),
+	url('https://rtfktofficial.com/terms/index_files/fonts/adipictos-Regular.woff2') format('woff2'),
+	url('https://rtfktofficial.com/terms/index_files/fonts/adipictos-Regular.woff') format('woff'),
+	url('https://rtfktofficial.com/terms/index_files/fonts/adipictos-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}

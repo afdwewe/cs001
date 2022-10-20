@@ -1,0 +1,14 @@
+{
+  "name": "Into The Metaverse",
+  "short_name": "adidas-metaverse",
+  "icons": [
+    {
+      "src": "/_assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#0527f7",
+  "background_color": "#000",
+  "display": "standalone"
+}
